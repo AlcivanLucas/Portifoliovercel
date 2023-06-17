@@ -10,7 +10,7 @@ const Header = () => {
             <S.HeaderContentContainer className="centralizer">
                 <S.Logo>
                     <a href="/">
-                        <span>/*</span>M.V DEV<span>*/</span>
+                        <span>/*</span>A.L DEV<span>*/</span>
                     </a>
                 </S.Logo>
                 <S.HeaderNav mobileNav={mobileNav}>
