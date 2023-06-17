@@ -14,7 +14,7 @@ interface MainComponentContract {
 const MainComponent = ({ isMobile }: MainComponentContract) => {
     const [isInitial, setIsInitial] = useState<boolean>(true);
     const ref = useRef<HTMLParagraphElement>(null);
-    const occupation: string = "Desenvolvedor Web &&";
+    const occupation: string = "Desenvolvedor Web";
 
     useEffect(() => {
         if (
@@ -33,7 +33,7 @@ const MainComponent = ({ isMobile }: MainComponentContract) => {
                 <S.MainContentContainer>
                     <div className="nameLogoContainer">
                         <S.MyInfoContainer>
-                            <S.Name>Matheus Vieira</S.Name>
+                            <S.Name>Alcivan Lucas</S.Name>
                             <S.Occupation ref={ref}></S.Occupation>
                             <S.SocialMediaContainer>
                                 <SocialMediaBox url="https://www.linkedin.com/in/ymatheus-vieira/">
