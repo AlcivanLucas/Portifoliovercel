@@ -36,13 +36,13 @@ const MainComponent = ({ isMobile }: MainComponentContract) => {
                             <S.Name>Alcivan Lucas</S.Name>
                             <S.Occupation ref={ref}></S.Occupation>
                             <S.SocialMediaContainer>
-                                <SocialMediaBox url="https://www.linkedin.com/in/ymatheus-vieira/">
+                                <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas">
                                     <Linkedin />
                                 </SocialMediaBox>
-                                <SocialMediaBox url="https://github.com/math-vieira/">
+                                <SocialMediaBox url="https://github.com/GalinGdS">
                                     <GitHub />
                                 </SocialMediaBox>
-                                <SocialMediaBox url="https://www.instagram.com/devfourdev/">
+                                <SocialMediaBox url="https://www.instagram.com/alcivan_lucas/">
                                     <Instagram />
                                 </SocialMediaBox>
                             </S.SocialMediaContainer>
