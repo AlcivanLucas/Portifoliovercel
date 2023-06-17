@@ -14,16 +14,15 @@ const AboutMeSection = ({ isMobile }: AboutMeContract) => {
                 <S.AboutMeContainer>
                     <div>
                         <p>
-                            Meu nome é Matheus Vieira e eu sou um apaixonado por
+                            Meu nome é Alcivan lucas e eu sou um apaixonado por
                             tecnologia que decidiu trilhar o caminho da
                             programação. Trabalhei com projetos envolvendo
                             gestão educacional, API's e banco de dados.
                         </p>
                         <br />
                         <p>
-                            Atualmente estou cursando análise e desenvolvimento
-                            de sistemas (ADS) e focando no desenvolvimento
-                            FullStack.
+                            Atualmente estou Engenharia de Software e focando no desenvolvimento
+                            Back-And.
                         </p>
                     </div>
                     {!isMobile && (
