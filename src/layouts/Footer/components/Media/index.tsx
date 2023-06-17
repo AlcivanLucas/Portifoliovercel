@@ -9,28 +9,28 @@ const Media = () => {
         <S.SocialMediaContainer>
             <div>
                 <S.Title>E-mail para contato</S.Title>
-                <S.Text>ymatheusvieira.contato@gmail.com</S.Text>
+                <S.Text>alcivan14lucas@gmail.com</S.Text>
             </div>
             <div>
                 <S.Title>Adicione nas redes</S.Title>
                 <S.LinksContainer>
                     <S.MediaContainer>
-                        <SocialMediaBox url="https://www.linkedin.com/in/ymatheus-vieira/">
+                        <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas-meireles-de-sousa-a0b88b279/">
                             <Linkedin />
                         </SocialMediaBox>
-                        <div>/ymatheus-vieira</div>
+                        <div>/alcivan lucas</div>
                     </S.MediaContainer>
                     <S.MediaContainer>
-                        <SocialMediaBox url="https://github.com/math-vieira/">
+                        <SocialMediaBox url="https://github.com/GalinGdS">
                             <GitHub />
                         </SocialMediaBox>
-                        <div>/math-vieira</div>
+                        <div>/alcivan lucas</div>
                     </S.MediaContainer>
                     <S.MediaContainer>
-                        <SocialMediaBox url="https://www.instagram.com/devfourdev/">
+                        <SocialMediaBox url="https://www.instagram.com/alcivan_lucas/">
                             <Instagram />
                         </SocialMediaBox>
-                        <div>/devfourdev</div>
+                        <div>/alcivan lucas</div>
                     </S.MediaContainer>
                 </S.LinksContainer>
             </div>
