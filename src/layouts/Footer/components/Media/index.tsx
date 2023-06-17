@@ -18,19 +18,19 @@ const Media = () => {
                         <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas-meireles-de-sousa-a0b88b279/">
                             <Linkedin />
                         </SocialMediaBox>
-                        <div>/alcivan lucas</div>
+                        <div>/Alcivan Lucas</div>
                     </S.MediaContainer>
                     <S.MediaContainer>
                         <SocialMediaBox url="https://github.com/GalinGdS">
                             <GitHub />
                         </SocialMediaBox>
-                        <div>/alcivan lucas</div>
+                        <div>/GalinGdS</div>
                     </S.MediaContainer>
                     <S.MediaContainer>
                         <SocialMediaBox url="https://www.instagram.com/alcivan_lucas/">
                             <Instagram />
                         </SocialMediaBox>
-                        <div>/alcivan lucas</div>
+                        <div>/Alcivan Lucas</div>
                     </S.MediaContainer>
                 </S.LinksContainer>
             </div>
