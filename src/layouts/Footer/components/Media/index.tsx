@@ -15,7 +15,7 @@ const Media = () => {
                 <S.Title>Adicione nas redes</S.Title>
                 <S.LinksContainer>
                     <S.MediaContainer>
-                        <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas-meireles-de-sousa-a0b88b279/">
+                        <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas">
                             <Linkedin />
                         </SocialMediaBox>
                         <div>/Alcivan Lucas</div>
