@@ -12,7 +12,7 @@ const Footer = () => {
                     <Form />
                     <Media />
                 </S.ContactContainer>
-                <S.BottomMessage>© 2023 / Matheus Vieira / Todos os direitos reservados </S.BottomMessage>
+                <S.BottomMessage>© 2023 / Alcivan Lucas / Todos os direitos reservados </S.BottomMessage>
             </div>
         </S.Footer>
     );
