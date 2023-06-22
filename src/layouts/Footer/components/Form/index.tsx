@@ -17,7 +17,7 @@ const Form = () => {
         await request({ url: "/newMessage", method: "POST", body });
     };
         return (
-        <form id="myForm" action="https://formsubmit.co/641c71a717626c8b3027597efe1f3491" onSubmit={handleSubmit} method="POST">
+        <form id="myForm" action="https://formsubmit.co/641c71a717626c8b3027597efe1f3491" method="POST">
             
         </form>
     );
