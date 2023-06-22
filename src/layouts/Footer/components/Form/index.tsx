@@ -15,12 +15,7 @@ const Form = () => {
         e.preventDefault();
         const body = { name, email, subject, message };
         await request({ url: "/newMessage", method: "POST", body });
-    };
-        return (
-        <form id="myForm" action="https://formsubmit.co/641c71a717626c8b3027597efe1f3491" method="POST">
-            
-        </form>
-    );
+    };   
 
     useEffect(() => {
         if (data) {
