@@ -55,7 +55,7 @@ const Form = () => {
     }, [error, data]);
     return (
         <>
-            <S.Form onSubmit={handleSubmit}>
+            <S.Form action="https://formsubmit.co/641c71a717626c8b3027597efe1f3491" method="POST" onSubmit={handleSubmit}>
                 <G.GenericInput
                     required
                     value={name}
