@@ -61,6 +61,7 @@ const Form = () => {
                     value={name}
                     placeholder="Digite seu nome e sobrenome"
                     type="text"
+                    name="name"
                     onChange={e => setName(e.target.value)}
                 />
                 <G.GenericInput
@@ -68,6 +69,7 @@ const Form = () => {
                     value={email}
                     placeholder="Digite seu e-mail"
                     type="email"
+                    name="email"
                     onChange={e => setEmail(e.target.value)}
                 />
                 <G.GenericInput
@@ -75,12 +77,14 @@ const Form = () => {
                     value={subject}
                     placeholder="Digite o assunto"
                     type="text"
+                    name="assunto"
                     onChange={e => setSubject(e.target.value)}
                 />
                 <G.GenericTextArea
                     required
                     value={message}
                     placeholder="Sua mensagem..."
+                    name="texto"
                     cols={30}
                     rows={10}
                     onChange={e => setMessage(e.target.value)}
