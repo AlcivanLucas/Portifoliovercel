@@ -14,7 +14,7 @@ const Form = () => {
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         const body = { name, email, subject, message };
-        await request({ url: "/newMessage", method: "POST", body });
+        await request({ url:"https://formsubmit.co/641c71a717626c8b3027597efe1f3491", method: "POST", body });
     };   
 
     useEffect(() => {
@@ -61,7 +61,6 @@ const Form = () => {
                     value={name}
                     placeholder="Digite seu nome e sobrenome"
                     type="text"
-                    name="name"
                     onChange={e => setName(e.target.value)}
                 />
                 <G.GenericInput
@@ -69,7 +68,6 @@ const Form = () => {
                     value={email}
                     placeholder="Digite seu e-mail"
                     type="email"
-                    name="email"
                     onChange={e => setEmail(e.target.value)}
                 />
                 <G.GenericInput
@@ -77,14 +75,12 @@ const Form = () => {
                     value={subject}
                     placeholder="Digite o assunto"
                     type="text"
-                    name="assunto"
                     onChange={e => setSubject(e.target.value)}
                 />
                 <G.GenericTextArea
                     required
                     value={message}
                     placeholder="Sua mensagem..."
-                    name="texto"
                     cols={30}
                     rows={10}
                     onChange={e => setMessage(e.target.value)}
