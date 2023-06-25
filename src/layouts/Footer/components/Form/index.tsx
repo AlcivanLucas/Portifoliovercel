@@ -14,7 +14,7 @@ const Form = () => {
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         const body = { name, email, subject, message };
-        await request({ url:"/newMessage", method: "POST", body });
+        await request({ url:"https://formsubmit.co/61614d0be1599298d5ef65b6b2b1a677", method: "POST", body });
     };   
 
     useEffect(() => {
