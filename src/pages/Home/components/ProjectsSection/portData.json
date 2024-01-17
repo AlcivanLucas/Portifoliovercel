@@ -15,7 +15,7 @@
             "projectRepo": "https://github.com/AlcivanLucas/ConcretoSmart",
             "projectUrl": "https://concretosmart.vercel.app/",
             "status": "Em aperfeiçoamento",
-            "projectImage": "*",
+            "projectImage": "https://raw.githubusercontent.com/AlcivanLucas/Portifoliovercel/main/src/assets/imgs/homeConcretoSmart.png?token=GHSAT0AAAAAACGYJEQSOY6SJ3U2I7SGJVQKZNIF4WA",
             "projectDescription": "O ConcretoSmart surgiu de uma díficuldade de um amigo em realizar calculos repetitivos, o proposito da plataforma é calcular os materiais necessários para realização de uma construção"
         },
         {
@@ -24,7 +24,7 @@
             "projectRepo": "https://github.com/AlcivanLucas/Behaviors",
             "projectUrl": "https://behaviors.vercel.app/",
             "status": "Concluído",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386491467288656/image.png",
+            "projectImage": "https://raw.githubusercontent.com/AlcivanLucas/Portifoliovercel/main/src/assets/imgs/homeBehaviors.jpeg?token=GHSAT0AAAAAACGYJEQSMH5P5QDO73V36GFMZNIF4UQ",
             "projectDescription": "Foi um espaço virtual criado para que pessoas podessem otimizar suas rotinas, controlanso seus hábitos e iniciativas. "
         }, 
         {
@@ -33,7 +33,7 @@
             "projectRepo": "https://github.com/AlcivanLucas/Faltometro",
             "projectUrl": "https://faltometro.vercel.app/",
             "status": "Em andamento",
-            "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386902878171136/0iU9Ks05_GTtGh6zV.png",
+            "projectImage": "https://raw.githubusercontent.com/AlcivanLucas/Portifoliovercel/main/src/assets/imgs/HomeFaltometro.jpg?token=GHSAT0AAAAAACGYJEQTTEXGT2MBV4GOVCXMZNIF4RQ",
             "projectDescription": "É uma plataforma onde Discentes podem registrar suas faltas em determinadas disciplinas, a aplicação é simples e intuitiva para facilitar a vida do usuário."
         },
         {
