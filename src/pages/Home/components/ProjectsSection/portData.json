@@ -37,13 +37,13 @@
             "projectDescription": "É uma plataforma onde Discentes podem registrar suas faltas em determinadas disciplinas, a aplicação é simples e intuitiva para facilitar a vida do usuário."
         },
         {
-            "projectType": "Front-end",
-            "projectName": "Countries",
-            "projectRepo": "https://github.com/GalinGdS",
-            "projectUrl": "https://countries-math-vieira.vercel.app/",
-            "status": "Concluído",
+            "projectType": "Back-end",
+            "projectName": "Server-Faltômetro",
+            "projectRepo": "https://github.com/AlcivanLucas/Faltometro",
+            "projectUrl": "https://github.com/AlcivanLucas/Faltometroserver",
+            "status": "Em andamento",
             "projectImage": "https://camo.githubusercontent.com/9673641b7e5ed4990896047df0cbd898659a17bd2791ab34da1176b6981dd509/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3938323438353931363532343335353633342f313031373132383831313633383330343931302f756e6b6e6f776e2e706e67",
-            "projectDescription": "Aplicação desenvolvida em React que lista todos os países do mundo com várias informações a respeito de cada um. É um desafio do site Frontend Mentor."
+            "projectDescription": "API node.js desenvolvida para lidar com as rotas, tratamendo de dados, validação, autenticação e comunicação com o DB, a API foi desenvolvida visando serverless, para ser implementada em produção na Vercel ou Render, faz a função de back-end da plataforma Faltômetro. "
         }
     ]
 }
