@@ -21,7 +21,7 @@ const Media = () => {
                         <div>/Alcivan Lucas</div>
                     </S.MediaContainer>
                     <S.MediaContainer>
-                        <SocialMediaBox url="https://github.com/GalinGdS">
+                        <SocialMediaBox url="https://github.com/AlcivanLucas">
                             <GitHub />
                         </SocialMediaBox>
                         <div>/GalinGdS</div>

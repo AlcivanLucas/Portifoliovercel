@@ -39,7 +39,7 @@ const MainComponent = ({ isMobile }: MainComponentContract) => {
                                 <SocialMediaBox url="https://www.linkedin.com/in/alcivan-lucas">
                                     <Linkedin />
                                 </SocialMediaBox>
-                                <SocialMediaBox url="https://github.com/GalinGdS">
+                                <SocialMediaBox url="https://github.com/AlcivanLucas">
                                     <GitHub />
                                 </SocialMediaBox>
                                 <SocialMediaBox url="https://www.instagram.com/alcivan_lucas/">

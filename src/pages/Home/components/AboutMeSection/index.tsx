@@ -21,7 +21,7 @@ const AboutMeSection = ({ isMobile }: AboutMeContract) => {
                         </p>
                         <br />
                         <p>
-                            Atualmente estou Engenharia de Software e focando no desenvolvimento
+                            Atualmente estou cursando Engenharia de Software e focando no desenvolvimento
                             Back-And.
                         </p>
                     </div>

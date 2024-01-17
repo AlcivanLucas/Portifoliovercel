@@ -10,31 +10,31 @@
             "projectDescription": "Projeto criado para apresentar meus trabalhos e habilidades aos visitantes interessados em conhecer mais sobre mim."
         },
         {
-            "projectType": "Front-end",
-            "projectName": "Urubu do Pix",
-            "projectRepo": "https://github.com/GalinGdS",
-            "projectUrl": "https://deezer-app-mv.vercel.app/",
-            "status": "Concluído",
-            "projectImage": "https://img.ibxk.com.br/2022/06/24/urubu-do-pix-meme-24093248618018.jpg",
-            "projectDescription": "Este projeto é uma aplicação web desenvolvida com React que permite que pessoas invistam seu dinheiro na Pirâmide financeira mais \"SEGURA\" e eficiente do momento."
+            "projectType": "Web Full-Stack",
+            "projectName": "ConcretoSmart",
+            "projectRepo": "https://github.com/AlcivanLucas/ConcretoSmart",
+            "projectUrl": "https://concretosmart.vercel.app/",
+            "status": "Em aperfeiçoamento",
+            "projectImage": "*",
+            "projectDescription": "O ConcretoSmart surgiu de uma díficuldade de um amigo em realizar calculos repetitivos, o proposito da plataforma é calcular os materiais necessários para realização de uma construção"
         },
         {
-            "projectType": "Back-end",
-            "projectName": "Deezer api consumer",
-            "projectRepo": "https://github.com/GalinGdS",
-            "projectUrl": "",
+            "projectType": "Web e Mobile",
+            "projectName": "Behaviors",
+            "projectRepo": "https://github.com/AlcivanLucas/Behaviors",
+            "projectUrl": "https://behaviors.vercel.app/",
             "status": "Concluído",
             "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386491467288656/image.png",
-            "projectDescription": "Este projeto é uma API que utiliza a API do Deezer para oferecer funcionalidades de busca e chart (músicas mais atuais) aos usuários. "
+            "projectDescription": "Foi um espaço virtual criado para que pessoas podessem otimizar suas rotinas, controlanso seus hábitos e iniciativas. "
         }, 
         {
-            "projectType": "Back-end",
-            "projectName": "Clean arch API",
-            "projectRepo": "https://github.com/GalinGdS",
-            "projectUrl": "",
+            "projectType": "Front-end",
+            "projectName": "Faltômetro",
+            "projectRepo": "https://github.com/AlcivanLucas/Faltometro",
+            "projectUrl": "https://faltometro.vercel.app/",
             "status": "Em andamento",
             "projectImage": "https://cdn.discordapp.com/attachments/957316110653464596/1089386902878171136/0iU9Ks05_GTtGh6zV.png",
-            "projectDescription": "API construída utilizando conceitos de arquitetura limpa, SOLID e design patterns. NodeJS e TypeScript estão sendo utilizados na sua construção."
+            "projectDescription": "É uma plataforma onde Discentes podem registrar suas faltas em determinadas disciplinas, a aplicação é simples e intuitiva para facilitar a vida do usuário."
         },
         {
             "projectType": "Front-end",
