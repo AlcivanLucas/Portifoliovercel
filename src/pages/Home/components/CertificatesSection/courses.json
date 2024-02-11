@@ -1,43 +1,43 @@
 {
     "courses": [
         {
-            "courseName": "MongoDB do básico",
-            "institution": "Udemy",
-            "duration": "19 horas",
-            "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-b89a0b21-c626-470b-8448-aa2e3de7551c/",
-            "conclusion": "2023"
+            "courseName": "CS50x Harvard 2024",
+            "institution": "Harvard Academy",
+            "duration": "aproximadamente 110h horas",
+            "instructor": "David J. Malan",
+            "certificate": "https://certificates.cs50.io/d000e3c1-e916-4c67-b4d3-df8a498ed59f.pdf?size=letter",
+            "conclusion": "2024"
         },
         {
-            "courseName": "NestJS do Zero com typeORM",
-            "institution": "Udemy",
+            "courseName": "Estrutura de Dados em Python",
+            "institution": "Fundação Bradesco",
             "duration": "16 horas",
             "instructor": "Jorge Aluizio",
-            "certificate": "https://www.udemy.com/certificate/UC-6dd9c294-a39e-4f70-91b5-be36e47943cf/",
+            "certificate": "https://drive.google.com/file/d/1-MuJzDt82Mu8nOMXH2f-NYBXnDDR67in/view?usp=drive_link",
             "conclusion": "2023"
         },
         {
-            "courseName": "NodeJS - The Complete guide",
-            "institution": "Udemy",
-            "duration": "40 horas",
+            "courseName": "Modelagem de dados",
+            "institution": "Fundação Bradesco",
+            "duration": "14 horas",
             "instructor": "Maximilian Schwarzmüller",
-            "certificate": "https://www.udemy.com/certificate/UC-a59442e6-733d-4ba8-b0e4-a42914b8e060/",
+            "certificate": "https://drive.google.com/file/d/1eK7zzhRb30s1H7LYAmuCG6D_Yr2_JG3m/view?usp=drive_link",
             "conclusion": "2023"
         },
         {
-            "courseName": "Docker para Desenvolvedores",
-            "institution": "Udemy",
-            "duration": "12 horas",
+            "courseName": "Implementação e Gerenciamento de Banco de Dados",
+            "institution": "Fundação Bradesco",
+            "duration": "19 horas",
             "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-ed57e3dd-005b-49df-b04b-11831ee8a0e5/",
+            "certificate": "https://drive.google.com/file/d/1BkrLqDNC1HCqriyPa3dCtB5PAHAwYTti/view?usp=drive_link",
             "conclusion": "2023"
         },
         {
-            "courseName": "Node.js do Zero a Maestria",
-            "institution": "Udemy",
+            "courseName": "Java da lógica a Maestria",
+            "institution": "Fundação Bradesco",
             "duration": "38 horas",
             "instructor": "Matheus Battisti",
-            "certificate": "https://www.udemy.com/certificate/UC-ad929d40-b221-4d22-a531-7bf32d8359b5/",
+            "certificate": "https://drive.google.com/file/d/1128n0d_3j_gQA65abBLOytHh6fRrocZd/view?usp=drive_link",
             "conclusion": "2023"
         }
     ]

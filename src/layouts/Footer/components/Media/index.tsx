@@ -9,7 +9,7 @@ const Media = () => {
         <S.SocialMediaContainer>
             <div>
                 <S.Title>E-mail para contato</S.Title>
-                <S.Text>alcivan14lucas@gmail.com</S.Text>
+                <S.Text>alcivanlucasdesousa@gmail.com</S.Text>
             </div>
             <div>
                 <S.Title>Adicione nas redes</S.Title>

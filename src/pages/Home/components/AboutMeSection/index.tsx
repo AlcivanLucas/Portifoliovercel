@@ -16,13 +16,16 @@ const AboutMeSection = ({ isMobile }: AboutMeContract) => {
                         <p>
                             Meu nome é Alcivan lucas e eu sou um apaixonado por
                             tecnologia que decidiu trilhar o caminho da
-                            programação. Trabalhei com projetos envolvendo
-                            gestão educacional, API's e banco de dados.
+                            programação. Trabalhei com projetos voluntários envolvendo
+                            gestão educacional, consumo de API's e banco de dados PostgreSQL e MongoDB.
                         </p>
-                        <br />
+                        <br/>
                         <p>
                             Atualmente estou cursando Engenharia de Software e focando no desenvolvimento
-                            Back-And.
+                            Back-end. Sou CTO da empresa júnior de Engenharia de Software, a ConcretoSmart, 
+                            onde tenho a oportunidade de trabalhar com tecnologias como Node.js, Express,
+                            envolvendo desenvolvimento de produtos/serviços baseados em tecnologia, pesquisa 
+                            e inovação tecnológica, bem como a infraestrutura tecnológica da empresa.
                         </p>
                     </div>
                     {!isMobile && (
